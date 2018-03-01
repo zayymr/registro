@@ -1,5 +1,6 @@
 <html>
 <head>
+<link rel="stylesheet" type="text/css"  href="registro.css">
 <title> Registro de usuarios </title> 
 <h2>Registro de usuarios</h2>
 <p>Completa el siguiente formulario con los datos solicitados: </p>
