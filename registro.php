@@ -2,6 +2,8 @@
 <head>
 <link rel="stylesheet" type="text/css"  href="css/registro.css">
 <title> Registro de usuarios </title> 
+</head>
+<body>
 <h2>Registro de usuarios</h2>
 <p>Completa el siguiente formulario con los datos solicitados: </p>
 <form action="/my-handling-form-page" method="post">
@@ -26,6 +28,6 @@
         <input type="email" id="correo" />
     </div>
 </form>
-</head>
+</body>
 </html>
 

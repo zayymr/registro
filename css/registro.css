@@ -1,11 +1,42 @@
-form {
-    overflow: hidden;
+body {
+    font-family: arial,Helvetica, sans-serif;
+    background-color: #D36D8E;
+     }
+
+h2 {
+    
+    padding: 20px;
+    border: 2px solid red;
+    color: white;
+    background-color: #75243F;
+
 }
- 
+
+p {
+    padding: 20px;
+    border: 2px solid red;
+    color: white;
+    background-color: #9F4260;
+
+}
+
+div {
+    padding: 20px;
+    background-color: #D37291;
+    color: white;
+}
+
+form {
+    padding: 20px;
+    border:2px solid red;
+    color:white;
+}
+
 label {
     float: left;
     width: 200px;
     padding-right: 24px;
+    color: white;
 }
  
 input {
