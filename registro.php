@@ -8,20 +8,24 @@
 <p>Completa el siguiente formulario con los datos solicitados: </p>
 <form action="alta_registro.php" method="post">
     <div>
-	<label for="id_usuario">Numero de cuenta:</label>
-	<input type="text" name="id_usuario" />
-    </div>
-    <div>
-        <label for="nombre">Nombre:</label>
+        <label for="nombre">Nombre: </label>
         <input type="text" name="nombre" />
     </div>
     <div>
-	<label for="apaterno">Apellido Paterno:</label>
+	<label for="apaterno">Apellido Paterno: </label>
 	<input type="text" name="apaterno" />
     </div>
     <div>
-	<label for="tel">Telefono:</label>
-	<input type="text" name="tel" />
+	<label for="amaterno">Apellido Materno: </label>
+	<input type="text" name="amaterno" />
+    </div>
+    <div>
+	<label for="telefono">Telefono: </label>
+	<input type="text" name="telefono" />
+    </div>
+    <div>
+	<label for="correo">Correo: </label>
+	<input type="email" name="correo" />
     </div>	
     <div>
 	<input type="submit" value="Enviar" />
@@ -29,4 +33,3 @@
 </form>
 </body>
 </html>
-
