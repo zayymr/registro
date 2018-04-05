@@ -24,7 +24,7 @@ else if ($_SESSION['error']==2){
 <p>Ingresa los siguientes datos: </p>
 <form action="autenticar.php" method="post">
 <p>Usuario: </p><input type="text" name="usuario" autocomplete="off"/>
-<p>Contraseña: </p><input type="password" name="contrasena" autocomplete="off"/><br>
+<p>Contraseña: </p><input type="password" name="contrasena" autocomplete="off"/><br><br>
 <input type="submit" value="Ingresar"/>
 </form>
 </body>
