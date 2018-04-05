@@ -52,7 +52,6 @@ else {
 pg_close($conn);
 
 ?>
-<br><br>
 </body>
 </html>
 
